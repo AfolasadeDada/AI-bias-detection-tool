@@ -60,7 +60,6 @@ These results demonstrate a significant improvement in fairness across all evalu
 
 To further evaluate model fairness and performance, several visualizations were generated:
 
-- **ROC Curves by Group**: To compare how well the model performs for different genders
 - **Disparate Impact Bar Chart**: To visualize bias reduction before and after mitigation
 - **Confusion Matrices by Group**: To analyze true and false classifications across groups
 

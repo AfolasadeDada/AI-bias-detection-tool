@@ -61,6 +61,9 @@ These results demonstrate a significant improvement in fairness across all evalu
 To further evaluate model fairness and performance, several visualizations were generated:
 
 - **Disparate Impact Bar Chart**: To visualize bias reduction before and after mitigation
+- ![Screenshot 2025-04-19 003802](https://github.com/user-attachments/assets/c7b9d3e9-fb19-42f4-b1bf-e8f4ad39092e)
+![Screenshot 2025-04-19 003835](https://github.com/user-attachments/assets/b0698a1a-94e9-4c1c-ba2c-394971d71e5c)
+
 - **Confusion Matrices by Group**: To analyze true and false classifications across groups
 
 ## How to Use This Project

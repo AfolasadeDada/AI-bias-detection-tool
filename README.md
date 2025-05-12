@@ -74,9 +74,6 @@ To explore or reproduce this analysis:
 2. Install the required libraries (e.g., AIF360, scikit-learn)  
 3. Run the notebook step-by-step to see the preprocessing, model training, fairness evaluation, and mitigation
 
-A hosted version of the notebook can be accessed here:  
-`https://colab.research.google.com/github/your-username/your-repo/blob/main/fairness_income_prediction.ipynb`  
-(Replace the link with your actual repo link)
 
 ## Future Enhancements
 
